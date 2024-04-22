@@ -122,10 +122,7 @@ Lanyon has two branches, but only one is used for active development.
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
+**KO1025**
 
 ## License
 
